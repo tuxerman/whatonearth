@@ -1,0 +1,26 @@
+RocksDB:
+    term: RocksDB
+    definition: 'A persistent key-value optimized for fast, low latency storage such as flash drives and high-speed disk drives.'
+    who: 'Facebook'
+    more:
+        - title: Homepage
+          url: https://rocksdb.org/
+        - title: Facebook group
+          url: https://www.facebook.com/groups/rocksdb.dev/
+
+Kafka:
+    term: Apache Kafka
+    definition: 'A distributed streaming platform that lets you
+                publish and subscribe to, store and process streams of records in a fault tolerant way'
+    who: '#kafka'
+    more:
+        - title: Homepage
+          url: https://kafka.apache.org
+
+Cassandra:
+    term: Cassandra
+    definition: 'Datastore that promises scalability and high availability without compromising performance'
+    who: '#cassandra'
+    more:
+        - title: Homepage
+          url: https://cassandra.apache.org/
